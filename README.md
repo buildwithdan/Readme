@@ -17,6 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=benphelps" height="150" alt="languages graph"  />
 </div>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <h2 align="left">Professionally I use,</h2>
